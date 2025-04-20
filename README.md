@@ -1,1 +1,1 @@
-# This is odin-recipes project
+# This is [odin-recipes](https://hirpha-click.github.io/odin-recipes/) project
